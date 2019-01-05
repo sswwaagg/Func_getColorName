@@ -1,6 +1,7 @@
 # Func_getColorName
 Convert a hexadecimal RGB color's value into a name that most closely matches it.
 
+*Note:* v1 / v2 agnostic
 ## Usage
 
 ```
